@@ -1,0 +1,12 @@
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\testinis bandymas\WebMusicAppMVC\MusicAppModels\bin\Debug\net5.0\MusicAppModels.deps.json
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\testinis bandymas\WebMusicAppMVC\MusicAppModels\bin\Debug\net5.0\MusicAppModels.dll
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\testinis bandymas\WebMusicAppMVC\MusicAppModels\bin\Debug\net5.0\ref\MusicAppModels.dll
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\testinis bandymas\WebMusicAppMVC\MusicAppModels\bin\Debug\net5.0\MusicAppModels.pdb
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\testinis bandymas\WebMusicAppMVC\MusicAppModels\obj\Debug\net5.0\MusicAppModels.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\testinis bandymas\WebMusicAppMVC\MusicAppModels\obj\Debug\net5.0\MusicAppModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\testinis bandymas\WebMusicAppMVC\MusicAppModels\obj\Debug\net5.0\MusicAppModels.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\testinis bandymas\WebMusicAppMVC\MusicAppModels\obj\Debug\net5.0\MusicAppModels.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\testinis bandymas\WebMusicAppMVC\MusicAppModels\obj\Debug\net5.0\MusicAppModels.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\testinis bandymas\WebMusicAppMVC\MusicAppModels\obj\Debug\net5.0\MusicAppModels.dll
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\testinis bandymas\WebMusicAppMVC\MusicAppModels\obj\Debug\net5.0\ref\MusicAppModels.dll
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\testinis bandymas\WebMusicAppMVC\MusicAppModels\obj\Debug\net5.0\MusicAppModels.pdb

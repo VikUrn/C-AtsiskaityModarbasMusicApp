@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f93f74d9-c20a-4a62-9e94-557827d6de4a": {
+      "ProjectGuid": "f93f74d9-c20a-4a62-9e94-557827d6de4a",
+      "DisplayName": "MusicAppMVC",
+      "ColorIndex": 0
+    },
+    "8dd50b09-ab6e-4f02-b085-1521aeb724f9": {
+      "ProjectGuid": "8dd50b09-ab6e-4f02-b085-1521aeb724f9",
+      "DisplayName": "MusicAppDbContext",
+      "ColorIndex": 1
+    },
+    "309045de-275b-4684-b10b-e37eaad7d330": {
+      "ProjectGuid": "309045de-275b-4684-b10b-e37eaad7d330",
+      "DisplayName": "MusicAppModels",
+      "ColorIndex": 2
+    },
+    "cdda42b3-40e3-4d38-bc37-c57839659a4b": {
+      "ProjectGuid": "cdda42b3-40e3-4d38-bc37-c57839659a4b",
+      "DisplayName": "MusicAppServices",
+      "ColorIndex": 3
+    },
+    "c72631fd-5275-46f8-a0cb-316242bdbf28": {
+      "ProjectGuid": "c72631fd-5275-46f8-a0cb-316242bdbf28",
+      "DisplayName": "MusicAppServices",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

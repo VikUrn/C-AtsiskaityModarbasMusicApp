@@ -1,0 +1,55 @@
+﻿@model IEnumerable<MusicAppModels.Music>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Mizikos sarasas</h1>
+
+@*@if (User.Identity.IsAuthenticated)
+{*@
+    <p>
+        <a asp-action="Create">Sukurit naują įrašą</a>
+    </p>
+@*}*@
+
+<table class="table table-striped overflow-scroll">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Performer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Genre)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>                
+                <td>
+                    @Html.DisplayFor(modelItem => item.Performer)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Genre)
+                </td>
+                @*@if (User.Identity.IsAuthenticated)
+                {*@
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.MusicId">Keisti</a> |
+                        <a asp-action="Details" asp-route-id="@item.MusicId">Informacija</a> |
+                        <a asp-action="Delete" asp-route-id="@item.MusicId">Trinti</a>
+                    </td>
+                @*}*@
+            </tr>
+        }
+    </tbody>
+</table>

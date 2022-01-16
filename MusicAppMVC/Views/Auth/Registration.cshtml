@@ -1,0 +1,31 @@
+﻿@model MusicAppMVC.ViewModels.RegistrationViewModel
+
+<h1>Prašom užsiregistruoti</h1>
+
+@if (TempData["Errors"] != null)
+{
+    <p class="text-danger">@TempData["Errors"]</p>
+}
+
+<form asp-action="Registration">
+    @Html.AntiForgeryToken()
+    <p>Vardas</p>
+    <input asp-for="@Model.Name" />
+    <span asp-validation-for="@Model.Name" class="text-danger"></span>
+
+    <p>Elektroninis paštas</p>
+    <input asp-for="@Model.Email" />
+    <span asp-validation-for="@Model.Email" class="text-danger"></span>
+
+    <p>Slaptažodis</p>
+    <input asp-for="@Model.Password" />
+    <span asp-validation-for="@Model.Password" class="text-danger"></span>
+
+    <p>Pakartokite slaptažodį</p>
+    <input asp-for="@Model.ConfirmPassword" />
+    <span asp-validation-for="@Model.ConfirmPassword" class="text-danger"></span>
+
+    <div class="form-group">
+        <input type="submit" value="Create" class="btn btn-primary" />
+    </div>
+</form>

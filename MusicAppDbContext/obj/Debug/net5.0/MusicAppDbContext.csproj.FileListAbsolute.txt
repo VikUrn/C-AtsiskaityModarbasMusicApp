@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\testinis bandymas\WebMusicAppMVC\MusicAppDbContext\bin\Debug\net5.0\MusicAppDbContext.deps.json
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\testinis bandymas\WebMusicAppMVC\MusicAppDbContext\bin\Debug\net5.0\MusicAppDbContext.dll
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\testinis bandymas\WebMusicAppMVC\MusicAppDbContext\bin\Debug\net5.0\ref\MusicAppDbContext.dll
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\testinis bandymas\WebMusicAppMVC\MusicAppDbContext\bin\Debug\net5.0\MusicAppDbContext.pdb
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\testinis bandymas\WebMusicAppMVC\MusicAppDbContext\bin\Debug\net5.0\MusicAppModels.dll
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\testinis bandymas\WebMusicAppMVC\MusicAppDbContext\bin\Debug\net5.0\MusicAppModels.pdb
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\testinis bandymas\WebMusicAppMVC\MusicAppDbContext\obj\Debug\net5.0\MusicAppDbContext.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\testinis bandymas\WebMusicAppMVC\MusicAppDbContext\obj\Debug\net5.0\MusicAppDbContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\testinis bandymas\WebMusicAppMVC\MusicAppDbContext\obj\Debug\net5.0\MusicAppDbContext.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\testinis bandymas\WebMusicAppMVC\MusicAppDbContext\obj\Debug\net5.0\MusicAppDbContext.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\testinis bandymas\WebMusicAppMVC\MusicAppDbContext\obj\Debug\net5.0\MusicAppDbContext.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\testinis bandymas\WebMusicAppMVC\MusicAppDbContext\obj\Debug\net5.0\MusicAppDbContext.csproj.CopyComplete
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\testinis bandymas\WebMusicAppMVC\MusicAppDbContext\obj\Debug\net5.0\MusicAppDbContext.dll
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\testinis bandymas\WebMusicAppMVC\MusicAppDbContext\obj\Debug\net5.0\ref\MusicAppDbContext.dll
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\testinis bandymas\WebMusicAppMVC\MusicAppDbContext\obj\Debug\net5.0\MusicAppDbContext.pdb
